@@ -54,5 +54,5 @@ function setup() {
 
 function draw() {
 
-  
+  Composite.add(engine.world, ball);
 }
